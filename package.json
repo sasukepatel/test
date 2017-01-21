@@ -1,0 +1,19 @@
+{
+  "name": "askmenowbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasukepatel/askmenowbot.git"
+  },
+  "author": "sasukepatel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasukepatel/askmenowbot/issues"
+  },
+  "homepage": "https://github.com/sasukepatel/askmenowbot#readme"
+}
