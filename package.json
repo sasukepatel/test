@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sasukepatel/askmenowbot/issues"
   },
-  "homepage": "https://github.com/sasukepatel/askmenowbot#readme"
+  "homepage": "https://github.com/sasukepatel/askmenowbot#readme",
+  "dependencies": {
+    "apiai": "^3.0.3",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
 }
